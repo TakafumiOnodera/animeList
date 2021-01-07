@@ -33,6 +33,7 @@ https://developers.annict.jp/graphql-api/setup/
 
 注意：GraphQL APIのため実装方針調査すること
 実行API自体はそこまで複雑ではない(事前にweb発行したトークンを持たせれば実行可能)
+ライブラリ「Apollo-iOS」があるので利用した方が早そう
 
 ## クラス設計
 1. 画面構成は画面設計通り
